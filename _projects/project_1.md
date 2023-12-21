@@ -5,5 +5,5 @@ description: Categorizing different images of clothes into categories using deep
 img: assets/img/cnn_fashion_image.jpg
 importance: 1
 redirect: https://www.kaggle.com/code/urjalacoder/fashion-image
-category: work
+category: personal
 ---

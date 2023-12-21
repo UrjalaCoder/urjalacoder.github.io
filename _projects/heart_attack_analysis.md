@@ -5,5 +5,5 @@ description: Explorative data analysis of different heart attack factors. Also i
 img: assets/img/heart_attack_project.jpg
 importance: 3
 redirect: https://www.kaggle.com/code/urjalacoder/hearth-attack-analysis
-category: work
+category: personal
 ---
