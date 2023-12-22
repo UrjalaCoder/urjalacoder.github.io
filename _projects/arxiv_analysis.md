@@ -2,10 +2,12 @@
 layout: page
 title: ArXiv analysis notebook
 description: Analysis and modeling notebook for ArXiv data.
-img:
-importance: 5
+img: assets/img/arxiv_logo.jpg
+importance: 1
 category: personal
 ---
+
+**NOTE:**  The visualization of the embeddings and clusters is in a separate [blog post](https://urjalacoder.github.io/blog/2023/arxiv_analysis/). 
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/arxiv_analysis.ipynb" | relative_url %}
