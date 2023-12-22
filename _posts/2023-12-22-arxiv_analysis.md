@@ -9,5 +9,3 @@ giscus_comments: false
 related_posts: false
 redirect: https://urjalacoder.github.io/assets/html/arxiv_visualization.html
 ---
-
-

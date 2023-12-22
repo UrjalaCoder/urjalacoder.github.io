@@ -7,7 +7,7 @@ importance: 1
 category: personal
 ---
 
-**NOTE:**  The visualization of the embeddings and clusters is in a separate [blog post](https://urjalacoder.github.io/blog/2023/arxiv_analysis/). 
+**NOTE:**  The visualization of the embeddings and clusters is in a separate [notebook](https://urjalacoder.github.io/assets/html/arxiv_visualization.html). 
 
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/arxiv_analysis.ipynb" | relative_url %}
