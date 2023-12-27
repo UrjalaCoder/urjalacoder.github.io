@@ -9,6 +9,8 @@ category: personal
 
 **NOTE:**  The visualization of the embeddings and clusters is in a separate [notebook](https://urjalacoder.github.io/assets/html/arxiv_visualization.html). 
 
+Built with Azure Databricks.
+
 {::nomarkdown}
 {% assign jupyter_path = "assets/jupyter/arxiv_analysis.ipynb" | relative_url %}
 {% capture notebook_exists %}{% file_exists assets/jupyter/arxiv_analysis.ipynb %}{% endcapture %}
